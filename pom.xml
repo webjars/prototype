@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>prototype</artifactId>
-    <version>1.7.3.0</version>
+    <version>1.7.3.1-SNAPSHOT</version>
     <name>Prototype</name>
     <description>WebJar for Prototype</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/prototype</url>
         <connection>scm:git:https://github.com/webjars/prototype.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/prototype.git</developerConnection>
-        <tag>prototype-1.7.3.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
